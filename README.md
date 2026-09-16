@@ -21,6 +21,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Akash12219737&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akash12219737&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Akash12219737&icon=0&color=0)](https://visitcount.https://akashmaurya.framer.website/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
