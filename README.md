@@ -2,10 +2,8 @@
 
 <div align="center">
   <br>  <img src="./assets/github-banner.png" width ="30%" height="50%"><br>
-  <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff0000, #ff7a00, #ffff00, #00ff00, #00ffff, #0080ff, #8000ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    ☁️ AKASH MAURYA
-  </span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=☁️+AKASH+MAURYA" />
 </h1></div><br><br><p align="center"></p><br><br>### ☁️ DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD<br><br>I'm a Computer Science Engineering professional focused on **Cloud Infrastructure, DevOps, Automation, and scalable application deployment**.<br><br>I enjoy building cloud infrastructure, containerizing applications, automating CI/CD pipelines, and deploying reliable applications using modern DevOps practices.<br><br><br>### 🔨 What I Build<br><br>- ☁️ Cloud infrastructure on AWS & Azure<br>- 🏗️ Infrastructure using Terraform<br>- 🐳 Containerized applications with Docker<br>- ☸️ Kubernetes-based deployments<br>- 🚀 Automated CI/CD pipelines<br>- 📊 Monitoring & observability solutions<br>- 🔐 Secure and scalable cloud environments<br>- 🌐 Full-stack applications integrated with DevOps workflows<br><br>### 📚 Currently Learning<br><br>- Advanced Kubernetes<br>- AWS Cloud Architecture<br>- Infrastructure as Code<br>- DevSecOps<br>- Cloud Security<br>- Observability & Monitoring<br>- Platform Engineering<br><br>### 🎯 Career Focus<br><br>I'm focused on building **production-oriented DevOps and Cloud projects** while continuously improving my skills in infrastructure automation, cloud architecture, container orchestration, CI/CD, and reliability engineering.<br><br>> **Automate the repetitive. Engineer the reliable. Scale with confidence. ☁️🚀**<br><br>## 🛠️ Core Stack<br><br><div align="center"><br><br><img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,jenkins,githubactions,linux,bash,prometheus,grafana,git,python,java,js,ts,nodejs,react,mongodb,mysql" /><br><br></div><br>
 
 
